@@ -1,5 +1,7 @@
 # API_CRUD_USER_REINGENERIA
 
+URL PARA PROBAR EL CRUD = http://localhost/######/users
+
 ## Documentación del Controlador de Usuarios
 
 ### Introducción
